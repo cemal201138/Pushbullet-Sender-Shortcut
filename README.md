@@ -1,2 +1,1 @@
-# Pushbullet-Sender-Shortcut
-Pushbullet-Sender-Shortcut
+!Bu Uygulama https://github.com/cemal201138/Python_Muzik_Calar nın Yönetmek İçin Bir Kestirmedir!
